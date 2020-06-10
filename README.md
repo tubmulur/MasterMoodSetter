@@ -1,4 +1,4 @@
-# MasterMood_Setter.
+# MansRay set MasterMood followed by sensitiveFollowers. 
 Master mood setter. The managment ray, the  block mood setter and  block mood followers.
 
 #ManRay:      Master mood management ray;
@@ -7,7 +7,7 @@ Master mood setter. The managment ray, the  block mood setter and  block mood fo
 
 $USER="У меня есть задание, хочу увидеть список радиостанций";
 
-$MASTER_MOOD__SETTER="Вай вэй, Раабэ, Ставлю эту нелегкую задачу конструктору ЕДРО..
+$MASTER_MOOD__SETTER="Вай вэй, Раабэ, Ставлю эту нелегкую задачу конструктору EDRO..
 
     1.Событие/                    :СписокСтанций.Главная;
     2.Действие/Устройство/Шаблоон :Запрос=EDRO.Полимер,Радио,Список,Не сортировать;Загрузить: Шаблон=Список станций,.
